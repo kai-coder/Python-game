@@ -12,7 +12,7 @@ y_change = 0
 width=10
 height=10
 enemyArray=[]
-enemyAmount=1
+enemyAmount=2
 enemyDistance=750/enemyAmount
 treasureamount=0
 class Treasure(object):
