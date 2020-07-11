@@ -1,6 +1,5 @@
 import pygame, sys, random
 mainClock = pygame.time.Clock()
-from pygame.locals import *
 pygame.init()
 run=True
 screen = pygame.display.set_mode((750,750))
