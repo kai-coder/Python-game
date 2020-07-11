@@ -1,4 +1,4 @@
-import pygame, sys, random
+import pygame
 mainClock = pygame.time.Clock()
 pygame.init()
 run=True
